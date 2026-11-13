@@ -4,22 +4,22 @@ Welcome to my Excel learning journey! This repository documents my
 progress as I learn Microsoft Excel and apply my skills through a
 **Healthcare Data Analysis and Insights** project.
 
-About My Journey
+## About My Journey
 
 I am learning Excel step by step, starting with the basics and moving
 towards data cleaning, transformation, analysis, and dashboard creation.
 This project helps me practise real-world data analysis using a
 healthcare dataset.
 
-Project: Healthcare Data Analysis and Insights
+## Project: Healthcare Data Analysis and Insights
 
-Objective-
+### Objective-
 
 To clean and combine healthcare data, explore patient information,
 identify patterns, and present useful insights through Excel charts and
 an interactive dashboard.
 
-Dataset-
+### Dataset-
 
 The project uses three related tables:
 
@@ -29,7 +29,7 @@ The project uses three related tables:
 
 The tables are connected using **Customer ID**.
 
-Skills I Am Practising
+## Skills I Am Practising
 
 -   Excel worksheet and table management
 -   `COUNTIF` to count specific values
@@ -41,7 +41,7 @@ Skills I Am Practising
 -   Creating Pivot Tables
 -   Building charts and an interactive dashboard
 
-Project Workflow
+## Project Workflow
 
 1.  **Data Cleaning**
     -   Count missing values in each column.
