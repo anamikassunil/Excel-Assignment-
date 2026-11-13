@@ -1,4 +1,4 @@
-# Excel-Assighnment-My Excel Learning Journey 📊
+# Excel-Assignment-My Excel Learning Journey 📊
 
 Welcome to my Excel learning journey! This repository documents my
 progress as I learn Microsoft Excel and apply my skills through a
